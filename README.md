@@ -28,10 +28,3 @@
 
 ---
 
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_  
-
----
-
-### 📊 GitHub Stats  
-![Vikas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikaspal&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikaspal&layout=compact&theme=tokyonight)  
