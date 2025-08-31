@@ -24,7 +24,7 @@
 
 ### 📫 Connect With Me  
 - LinkedIn: [linkedin.com/in/vikaspal](https://linkedin.com/in/vikaspal)  
-- Email: **vikaspal.dev@gmail.com**  
+- Email: **vikaspal964@gmail.com**  
 
 
 
