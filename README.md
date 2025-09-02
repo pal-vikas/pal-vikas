@@ -11,7 +11,7 @@
 ### 🛠 Tech Stack  
 - **Frontend:** React.js, JavaScript (ES6+), HTML, CSS, Tailwind CSS  
 - **Backend (Learning):** Java, Spring Boot  
-- **Tools:** Git, VS Code, Postman, Vercel  
+- **Tools:** Git / GitHub, Bitbucket, VS Code, Vercel  
 
 ---
 
