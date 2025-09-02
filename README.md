@@ -18,7 +18,6 @@
 ### 📌 Projects  
 - [Portfolio Website](https://github.com/vikaspal/portfolio) – Built with React & Tailwind CSS  
 - [GadgetBay Store](https://github.com/vikaspal/gadgetbay) – React-based gadget store with cart & search  
-- More projects on 👉 [My Repositories](https://github.com/vikaspal?tab=repositories)  
 
 ---
 
