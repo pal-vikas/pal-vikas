@@ -22,7 +22,7 @@
 ---
 
 ### 📫 Connect With Me  
-- LinkedIn: [linkedin.com/in/vikaspal](https://linkedin.com/in/vikaspal)  
+- LinkedIn: [linkedin.com/in/vikaspal](https://linkedin.com/in/vikashpal)  
 - Email: **vikaspal964@gmail.com**  
 
 
