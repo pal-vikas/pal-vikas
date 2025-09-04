@@ -10,7 +10,7 @@
 
 ### 🛠 Tech Stack  
 - **Frontend:** React.js, JavaScript (ES6+), HTML, CSS, Tailwind CSS  
-- **Backend (Learning):** Java,Firebase  
+- **Backend (Learning):** Java,Firebase, Superbase
 - **Tools:** Git / GitHub, Bitbucket, VS Code, Vercel  
 
 ---
