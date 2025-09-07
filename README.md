@@ -1,29 +1,27 @@
-# 👋 Hi, I’m Vikas Pal  
 
-### 🚀 About Me  
-- 💻 Frontend Developer at **Allianz**  
-- 🌱 Currently learning **Spring Boot & Full Stack Development**  
-- 🎯 Aspiring to become a **Software Development Engineer (SDE)**  
-- 📚 Passionate about building responsive and scalable web apps  
+### Hey, I'm Vikas 👋🏽  
 
----
+I'm a 26-year-old developer based in India, and I'm passionate about crafting digital experiences. 
 
-### 🛠 Tech Stack  
-- **Frontend:** React.js, JavaScript (ES6+), HTML, CSS, Tailwind CSS  
-- **Backend (Learning):** Java,Firebase, Superbase
-- **Tools:** Git / GitHub, Bitbucket, VS Code, Vercel  
+- ⚡ Fun fact **I Design Sometimes!!!**
 
----
+## 📦 Toolbox
 
-### 📌 Projects  
-- [Portfolio Website](https://github.com/pal-vikas/Portfolio-App) – Built with React & Tailwind CSS  
-- [GadgetBay Store](https://github.com/pal-vikas/GadgetBay-store) – React-based gadget store with cart & search  
+**Frontend Development:** `HTML` `CSS` `JavaScript` `React` `NextJS` `Tailwind CSS` `Material-UI` 
+ 
+**Version Control:** `Git` `GitHub` 
 
----
+**Backend Development:**  `Firebase`  `superbase`
 
-### 📫 Connect With Me  
-- LinkedIn: [linkedin.com/in/vikaspal](https://linkedin.com/in/vikashpal)  
-- Email: **vikaspal964@gmail.com**  
+
+## 📫 Contact
+
+ For a quick response, DM me on  [LinkedIn](https://www.linkedin.com/in/vikaspal3). 
+
+
+ 
+
+
 
 
 
