@@ -18,7 +18,9 @@ I'm a 26-year-old developer based in India, and I'm passionate about crafting di
 
  For a quick response, DM me on  [LinkedIn](https://www.linkedin.com/in/vikaspal3). 
  
- [![GitHub Streak](https://streak-stats.demolab.com?user=pal-vikas&hide_border=true)](https://git.io/streak-stats).
+ [![GitHub Streak](https://streak-stats.demolab.com?user=pal-vikas)](https://git.io/streak-stats)
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=dipeshjoshi4)](https://git.io/streak-stats)
 
 
 
