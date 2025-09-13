@@ -3,7 +3,7 @@
 
 I'm a 26-year-old developer based in India, and I'm passionate about crafting digital experiences. 
 - Check out my [website](https://www.victicious.com) to Know more about me.
-- Explore my [blog](https://dipeshjoshi4.hashnode.dev/) where I share insights and learnings.
+- Explore my [blog](https://vikaspal.hashnode.dev/) where I share insights and learnings.
 - In my [Newsletter](https://substack.com/inbox), I share my learnings and tips to become a better developer.
 - ⚡ Fun fact **I Design Sometimes!!!**
 
