@@ -7,8 +7,6 @@ I'm a 26-year-old developer based in India, and I'm passionate about crafting di
 - In my [Newsletter](https://substack.com/inbox), I share my learnings and tips to become a better developer.
 - ⚡ Fun fact **I Design Sometimes!!!**
 
-- ⚡ Fun fact **I Design Sometimes!!!**
-
 ## 📦 Toolbox
 
 **Frontend Development:** `HTML` `CSS` `JavaScript` `React`  `Tailwind CSS` `Material-UI` 
